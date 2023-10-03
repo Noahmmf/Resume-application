@@ -5,15 +5,27 @@ body {
 h1 {
   color: tan;
   font-size: 52px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Georgia, Garamond, serif;
 }
+
+h2 {
+  color: black;
+  font-size: 32px;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+
 h4{
   Color: black;
   font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
 }
-img {
-  width: 280px;
-  
-  
+h5 {
+  Color:grey;
+  font-size: 20px;
+  margin: 14px;
+}
+
+li {
+  color: black;
+  font-size: 14px
 }
